@@ -1,1 +1,1 @@
-my first readme
+my first readme now or go home
